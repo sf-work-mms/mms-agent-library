@@ -21,11 +21,13 @@ mms-agent-library/
 
 ### Atlassian MCP Integration
 
-- **[ATLASSIAN-MCP-CORRECTED-DIRECT-CLOUD.md](./knowledge/ATLASSIAN-MCP-CORRECTED-DIRECT-CLOUD.md)** ← **START HERE** — Direct cloud integration (no local setup)
-- **[ATLASSIAN-MCP-CORRECTION-LOG.md](./knowledge/ATLASSIAN-MCP-CORRECTION-LOG.md)** — Error analysis & lessons learned
-- **[ATLASSIAN-MCP-DEPLOYMENT-PLAN.md](./knowledge/ATLASSIAN-MCP-DEPLOYMENT-PLAN.md)** — Full 8-week deployment plan (Phase 1-5)
-- **[ATLASSIAN-MCP-QUICKSTART.md](./knowledge/ATLASSIAN-MCP-QUICKSTART.md)** — Developer quick reference
-- **[ATLASSIAN-MCP-COMPARATIVE-ANALYSIS.md](./knowledge/ATLASSIAN-MCP-COMPARATIVE-ANALYSIS.md)** — Why official Rovo MCP is the right choice
+Location: `knowledge/atlassian-mcp/`
+
+- **[ATLASSIAN-MCP-CORRECTED-DIRECT-CLOUD.md](./knowledge/atlassian-mcp/ATLASSIAN-MCP-CORRECTED-DIRECT-CLOUD.md)** ← **START HERE** — Direct cloud integration (no local setup)
+- **[ATLASSIAN-MCP-CORRECTION-LOG.md](./knowledge/atlassian-mcp/ATLASSIAN-MCP-CORRECTION-LOG.md)** — Error analysis & lessons learned
+- **[ATLASSIAN-MCP-DEPLOYMENT-PLAN.md](./knowledge/atlassian-mcp/ATLASSIAN-MCP-DEPLOYMENT-PLAN.md)** — Full 8-week deployment plan (Phase 1-5)
+- **[ATLASSIAN-MCP-QUICKSTART.md](./knowledge/atlassian-mcp/ATLASSIAN-MCP-QUICKSTART.md)** — Developer quick reference
+- **[ATLASSIAN-MCP-COMPARATIVE-ANALYSIS.md](./knowledge/atlassian-mcp/ATLASSIAN-MCP-COMPARATIVE-ANALYSIS.md)** — Why official Rovo MCP is the right choice
 
 ## 🎯 Quick Access
 
