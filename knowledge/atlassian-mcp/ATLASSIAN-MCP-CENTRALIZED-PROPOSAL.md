@@ -318,3 +318,17 @@ locals {
 **Document Version**: 1.0  
 **Status**: Ready for Submission  
 **Next Review**: Post-whitelist approval
+
+---
+
+## 📍 Document Location
+
+**Internal Location** (epft-docs):
+- `docs/modules/ROOT/pages/team-internal/proposal_records/pr-008-atlassian-mcp-centralized.md`
+
+This is an internal working document. For public/stakeholder materials, see:
+- `BUSINESS-CASE-ATLASSIAN-MCP-PROXY.md` (business value, ROI)
+- `PRESENTATION-GUIDE-ATLASSIAN-MCP.md` (how to present)
+- `EXECUTIVE-SUMMARY-ATLASSIAN-MCP.md` (quick one-pager)
+
+**GitHub**: https://github.com/MediaMarktSaturn/epft-docs/pull/150
